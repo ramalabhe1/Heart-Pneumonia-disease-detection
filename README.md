@@ -24,3 +24,5 @@ XGBoost (Scikit-learn)
 Artificial Neural Network with 1 Hidden layer (Keras)
 
 Accuracy achieved: 95% (Random Forest)
+
+Dataset used from KAGGLE : https://www.kaggle.com/ronitf/heart-disease-uci
